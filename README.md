@@ -1,1 +1,2 @@
 # Bot_vk_v2
+This bot is written in vk_bottle. Supports asynchrony. Implemented the functions of parsing the schedule for today, tomorrow, this week, next week. Work with the database has not been added yet. To facilitate user work (the previous bot worked on text commands), buttons have been added to the menu such as: schedule, menu, back, useful links, schedule for today, schedule for tomorrow, schedule for this week, schedule for the next week.
